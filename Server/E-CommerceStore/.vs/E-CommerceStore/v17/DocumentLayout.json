@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HF\\Desktop\\PROJECTS\\BookStore\\Server\\E-CommerceStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D71C99C1-68C6-4E63-B386-D86CC67C04C6}|E-CommerceStore.csproj|c:\\users\\hf\\desktop\\projects\\bookstore\\server\\e-commercestore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D71C99C1-68C6-4E63-B386-D86CC67C04C6}|E-CommerceStore.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B73ECC-370A-4EB6-9C94-EF170D3F9CB9}|..\\DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\hf\\desktop\\projects\\bookstore\\server\\dataaccesslayer\\interfaces\\ireviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B73ECC-370A-4EB6-9C94-EF170D3F9CB9}|..\\DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\hf\\desktop\\projects\\bookstore\\server\\dataaccesslayer\\repositories\\reviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F6B6EB4-DEE1-4301-B221-2EB282EAC83F}|..\\BusinessLogicLayer\\BusinessAccessLayer.csproj|c:\\users\\hf\\desktop\\projects\\bookstore\\server\\businesslogiclayer\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D71C99C1-68C6-4E63-B386-D86CC67C04C6}|E-CommerceStore.csproj|c:\\users\\hf\\desktop\\projects\\bookstore\\server\\e-commercestore\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D71C99C1-68C6-4E63-B386-D86CC67C04C6}|E-CommerceStore.csproj|solutionrelative:controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HF\\Desktop\\PROJECTS\\BookStore\\Server\\E-CommerceStore\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\HF\\Desktop\\PROJECTS\\BookStore\\Server\\E-CommerceStore\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T10:48:23.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IReviewRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HF\\Desktop\\PROJECTS\\BookStore\\Server\\DataAccessLayer\\Interfaces\\IReviewRepository.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayer\\Interfaces\\IReviewRepository.cs",
+              "ToolTip": "C:\\Users\\HF\\Desktop\\PROJECTS\\BookStore\\Server\\DataAccessLayer\\Interfaces\\IReviewRepository.cs",
+              "RelativeToolTip": "..\\DataAccessLayer\\Interfaces\\IReviewRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T10:47:06.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReviewRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HF\\Desktop\\PROJECTS\\BookStore\\Server\\DataAccessLayer\\Repositories\\ReviewRepository.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayer\\Repositories\\ReviewRepository.cs",
+              "ToolTip": "C:\\Users\\HF\\Desktop\\PROJECTS\\BookStore\\Server\\DataAccessLayer\\Repositories\\ReviewRepository.cs",
+              "RelativeToolTip": "..\\DataAccessLayer\\Repositories\\ReviewRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T10:46:59.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\HF\\Desktop\\PROJECTS\\BookStore\\Server\\BusinessLogicLayer\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLogicLayer\\Services\\BookService.cs",
+              "ToolTip": "C:\\Users\\HF\\Desktop\\PROJECTS\\BookStore\\Server\\BusinessLogicLayer\\Services\\BookService.cs",
+              "RelativeToolTip": "..\\BusinessLogicLayer\\Services\\BookService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T10:46:12.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\HF\\Desktop\\PROJECTS\\BookStore\\Server\\E-CommerceStore\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\HF\\Desktop\\PROJECTS\\BookStore\\Server\\E-CommerceStore\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Controllers\\BookController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T10:43:41.454Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
